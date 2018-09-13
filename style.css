@@ -1,10 +1,13 @@
 body {
 	text-align: center;
-	
+	background: #999;
+	font-family: helvetica;
 }
 
 .info {
-	background: #999;
-	width:600;
-	
+	background: #777;
+	width:600px;
+	display: inline-block;
+	margin: 50px;
+	padding: 50px;
 }
