@@ -1,11 +1,10 @@
 body {
 	text-align: center;
-	background: green;
+	
 }
 
 .info {
-	justify-content: space-between;
-	width: 400px;
-	float: left;
+	background: #999;
+	width:600;
 	
 }
