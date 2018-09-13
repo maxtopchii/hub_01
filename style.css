@@ -8,6 +8,34 @@ body {
 	background: #777;
 	width:600px;
 	display: inline-block;
-	margin: 50px;
+	margin: auto;
 	padding: 50px;
+	box-shadow: 5px 5px 5px #555;
+}
+.h {
+	background: #777;
+	width:600px;
+	margin: 50px;
+	display: inline-block;
+	padding: 50px;
+	box-shadow: 5px 5px 5px #555;
+}
+.inner {
+	background: #ccc;
+	height: 100px;
+	position: relative;
+	padding: 50px;
+	
+
+
+}
+.picture {
+	position: reletive;
+	display: inline-block;
+	width: 700px;
+	height: 300px;
+	margin: 50px;
+	overflow: scroll;
+	box-shadow: 5px 5px 5px #555;
+
 }
