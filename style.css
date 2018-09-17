@@ -9,7 +9,11 @@ div{
 
 .info {
 
+<<<<<<< HEAD
 	background: pink;
+=======
+	background: #777;
+>>>>>>> e6c03929bed7fb74a9cbc2ab9c5a6ba1c726f9b7
 	width:600px;
 	display: inline-block;
 	margin: auto;
@@ -26,7 +30,11 @@ div{
 }
 .inner {
 
+<<<<<<< HEAD
 	background: red;
+=======
+	background: #ccc;
+>>>>>>> e6c03929bed7fb74a9cbc2ab9c5a6ba1c726f9b7
 	height: 100px;
 	position: relative;
 	padding: 50px;
