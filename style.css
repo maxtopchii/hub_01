@@ -8,8 +8,8 @@ div{
 }
 
 .info {
-	
-	background: #777;
+
+	background: pink;
 	width:600px;
 	display: inline-block;
 	margin: auto;
@@ -25,17 +25,17 @@ div{
 	box-shadow: 5px 5px 5px #555;
 }
 .inner {
-	
+
 	background: red;
 	height: 100px;
 	position: relative;
 	padding: 50px;
-	
+
 
 
 }
 .picture {
-	
+
 	display: inline-block;
 	width: 700px;
 	height: 300px;
